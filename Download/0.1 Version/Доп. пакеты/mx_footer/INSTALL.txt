@@ -1,0 +1,13 @@
+////////////////////////////
+/////MX_FOOTER BY _RESTA_///
+/ADVANCE PACK///FOR RLINKER/
+////////////////////////////
+INSTALL 
+
+1. ADD TO LOADER.PHP "include "packs/mx_footer/mx_loader.php"; "
+2. EDIT mx_config.php
+3. COMPLIE :)
+
+////////////////////////////
+/AND 1 ADDON FOR RLINKER////
+////////////////////////////

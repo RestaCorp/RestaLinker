@@ -1,0 +1,24 @@
+footerfont
+{
+color:#FFFFFF;
+font-size:200%;
+border:1px solid white;
+margin:auto;
+text-align:center;
+width:70%;
+}
+a.button1 {
+  display: inline-block;
+  color: white;
+  font-weight: 100;
+  font-size:150%;
+  text-decoration: none;
+  user-select: none;
+  padding: .1em 1em;
+  outline: none;
+  border: 1px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+} 
+a.1button1:hover { background: rgba(255,255,255,.2); }
+a.1button1:active { background: white; }
